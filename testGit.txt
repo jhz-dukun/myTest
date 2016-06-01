@@ -3,3 +3,5 @@
 *this text is my study for github on Ubuntu
 *
 ***********************************************************
+
+now I can push my edit to github!
